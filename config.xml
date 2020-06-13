@@ -16,6 +16,10 @@
    In the app, there is  a variety of mathematical equipment which you 
        may have physically, but are altogether in one place digitally!
     </description>
+        
+    <icon>
+    <icon src="iTunesArtwork@1x.png" />
+</icon>
 
     <author href="http://scratch.mit.edu/users/dpmthreader" email="dpmthreader@gmail.com">
         dpmthreader
@@ -23,6 +27,4 @@
 
 </widget>
 
-<icon>
-    <icon src="iTunesArtwork@1x.png" />
-</icon>
+
