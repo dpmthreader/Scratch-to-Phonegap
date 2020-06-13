@@ -22,3 +22,7 @@
     </author>
 
 </widget>
+
+<icon>
+    <icon src="res/icon.png" />
+</icon>
